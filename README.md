@@ -3,7 +3,7 @@ ToiletLocker.
 
 Main aspects:
 · When launched, it is copied to C:\Windows\INF with the name c_computeaccelerator.exe, as well as with the attributes hidden and system.
-· Supports autorun in safe mode.
+· Supports autorun in safe mode.                                                                                                                
 · The alt, win, tab, ctrl (and other) keys are blocked.
 · The virus causes serious damage to the registry. The task manager, registry editor, cmd are prohibited, the start menu is empty, explorer.exe does not start when the system starts, but only the virus, access to the C drive is prohibited, all items in the ctrl alt del menu are missing, etc.
 · The virus window is forced to be on top of other windows. Even if you launch, for example, process hacker and make it on top of other windows, the virus will still be on top of it.

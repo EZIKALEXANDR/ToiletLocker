@@ -1,5 +1,5 @@
 ![photo_2024-12-28_02-33-32](https://github.com/user-attachments/assets/83bc6c5f-acdd-4430-b89f-2e653ae9c03c)
-ToiletLocker.
+ToiletLocker. This is a joke virus, the main feature of which is a large number of hackers on toilets XD
 
 Main aspects:
 

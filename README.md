@@ -31,6 +31,6 @@ ToiletLocker. This is a joke virus, the main feature of which is a large number 
 
 
 
-*By EZIKALEXANDR, for contact: burgershot987@gmail.com
+*By EZIKALEXANDR, for contact: burgershot987@gmail.com*
 
-Bye*
+*Bye*

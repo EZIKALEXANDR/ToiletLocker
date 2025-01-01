@@ -29,6 +29,7 @@ ToiletLocker. This is a joke virus, the main feature of which is a large number 
 
 · When you enter the correct password and press enter, the song changes
 
-By EZIKALEXANDR, for contact: burgershot987@gmail.com
 
-Bye
+
+*By EZIKALEXANDR, for contact: burgershot987@gmail.com
+Bye*

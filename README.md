@@ -2,9 +2,10 @@
 
 ToiletLocker. This is a joke virus, the main feature of which is a large number of hackers and toilets XD
 
+
 **Main aspects:**
 
-```
+
 · When launched, it is copied to C:\Windows\INF with the name c_computeaccelerator.exe, as well as with the attributes hidden and system.
 
 · Supports autorun in safe mode.
@@ -27,4 +28,7 @@ ToiletLocker. This is a joke virus, the main feature of which is a large number 
 · Password: install2017mediagetforfree2013. If the password is written correctly, the timer is frozen, the input field is disabled, the registry is fixed, a progress bar appears (as when you press enter) and the text "deleting mediaget...". At the end of the progress bar, explorer starts and the virus completes its work.
 
 · When you enter the correct password and press enter, the song changes
-```
+
+By EZIKALEXANDR, for contact: burgershot987@gmail.com
+
+Bye
